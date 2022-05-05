@@ -1,0 +1,6 @@
+_, Script_by_GoldenWars, Discord = 'discord.gg/pupUqEPMbz' 
+_, Protected_by_MoonSecV2, Discord = 'discord.gg/JWHmpyKWy5' 
+
+_G.pettable = true -- Set to false to disable remove animation on psx
+
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Brineeee/JioaHub-is-the-BEST-MM/main/JH_Main"),true))()
